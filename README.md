@@ -41,7 +41,7 @@ The dataset contains sales transaction data with information about:
 - Excel
 
 ## Dashboard Preview
-![Global Sales Dashboard](Global_Sales_Dashboard.png)
+Globale sale Dashboard.png
 
 ## Author
 Mohit
